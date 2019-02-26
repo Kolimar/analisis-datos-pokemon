@@ -1,2 +1,2 @@
-# analisis-datos-pokemon
-Analisis de base de datos de Pokemon usando matplotlib en Jupiter Notebook
+# Explorando datos de Pokémon con Pandas
+Pruebas usando librerías python para research de datos y diseño de graficos 
